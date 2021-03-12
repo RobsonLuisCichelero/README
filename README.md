@@ -1,7 +1,7 @@
 ### Hi, I'm Robson Cichelero! 👋
 
 🇧🇷 Born in Rondinha, Brazil <br>
-🇳🇱 Living in Passo Fundo, Brasil <br>
+🇧🇷 Living in Passo Fundo, Brasil <br>
 
 ### What I'm working on 👨‍💻
 
@@ -13,6 +13,6 @@ Studying at [IMED College](https://www.imed.edu.br/) <br>
 
 ### Find me elsewhere 🌎
 
-🐦 [Twitter]() <br>
-📸 [Instagram]() <br>
+🐦 [Twitter](https://twitter.com/Robi_Cichelero) <br>
+📸 [Instagram](https://www.instagram.com/robsoncichelero/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/robsoncichelero/) <br>
