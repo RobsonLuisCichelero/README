@@ -16,5 +16,3 @@ Studying at [IMED College](https://www.imed.edu.br/) <br>
 🐦 [Twitter](https://twitter.com/Robi_Cichelero) <br>
 📸 [Instagram](https://www.instagram.com/robsoncichelero/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/robsoncichelero/) <br>
-
-Layout by [lucasmontano](https://github.com/lucasmontano) <br>
